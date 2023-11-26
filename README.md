@@ -9,22 +9,18 @@ The provided CSV file contains the price change data of cryptocurrencies in diff
 
 #From Module 4 Challenge "Instructions"
 
-* Prepare the Data
-* Perform Quantitative Analysis
-  * Performance Analysis
-  * Risk Analysis
-  * Rolling Statistics
-  * Rolling Statistics Challenge: Exponentially Weighted Average
-  * Sharpe Ratios
-* Create a Custom Portfolio
+* Find the Best Value for k by Using the Original Data
+* Cluster the Cryptocurrencies with K-Means by Using the Original Data
+* Optimize the Clusters with Principal Component Analysis
+* Find the Best Value for k by Using the PCA Data
+* Cluster the Cryptocurrencies with K-means by Using the PCA Data
+* Visualize and Compare the Results
 
 ## Instructions on how to use 
 
-### 1. Launch whale_analysis.ipynb from JuypterLab
+### 1. Launch crypto_investments.ipynb from JuypterLab
 * Run through each line of code to view the output
 
-
- 
 ![Picture](https://www.columbia.edu/content/themes/custom/columbia/assets/img/cu-header.svg)
 
 
